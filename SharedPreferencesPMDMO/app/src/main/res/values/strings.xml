@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+
+    <string name="guardar">GUARDAR</string>
+    <string name="cargar">CARGAR</string>
+    <string name="next2">Ir a la 2ª actividad</string>
+    <string name="next3">Ir a la 3ª actividad</string>
+
+    <string name="nombreT">Nombre:</string>
+    <string name="correoT">Correo:</string>
+    <string name="direccionT">Dirección:</string>
+    <string name="telefonoT">Teléfono:</string>
+</resources>
